@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianlin/react-native-callkit.git"
+    "url": "https://github.com/ianlin/react-native-callkit.git"
   },
   "author": "Ian Yu-Hsun Lin <ianyuhsunlin@gmail.com>",
   "license": "ISC",
