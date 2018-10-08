@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ianlin/react-native-callkit.git"
+    "url": "https://github.com/maxhawkins/react-native-callkit.git"
   },
   "author": "Ian Yu-Hsun Lin <ianyuhsunlin@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ianlin/react-native-callkit/issues"
+    "url": "https://github.com/maxhawkins/react-native-callkit/issues"
   },
-  "homepage": "https://github.com/ianlin/react-native-callkit#readme",
+  "homepage": "https://github.com/maxhawkins/react-native-callkit#readme",
   "peerDependencies": {
     "react-native": ">=0.19.0"
   },
